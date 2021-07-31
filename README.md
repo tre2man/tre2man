@@ -12,4 +12,5 @@
 [![namwkim's 42 stats](https://badge42.herokuapp.com/api/stats/namwkim)](https://github.com/JaeSeoKim/badge42)
 
 ## Most Used Language
-[![tre2man Status](https://github-readme-stats.vercel.app/api/wakatime?username=tre2man)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tre2man&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
