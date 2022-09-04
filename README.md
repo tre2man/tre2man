@@ -24,4 +24,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tre2man&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
  
+ ### Blog
+ https://tre2man.tistory.com/
+ 
 <div align="center">
