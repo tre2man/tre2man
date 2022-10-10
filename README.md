@@ -31,6 +31,7 @@
 #### 👉 Infra
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2182E8?style=flat-square&logo=Docker&logoColor=white">
 
 #### 👉 ETC
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
