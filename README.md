@@ -44,7 +44,14 @@
 &emsp;
 ### 📖 Blog
 https://tre2man.tistory.com/
+
+### 🪪 Cert
+<div>
+ <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="140" height="140">
+<div/>
  
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e051f69c-6aca-4eb4-a25d-e3da7af2ac18/public_url)
+
  
 ### Hit counter
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftre2man%2Fhit-counrter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
