@@ -20,7 +20,6 @@
 
 #### 👉 Framework
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=#E0234E">
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white">
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white">
 <img src="https://img.shields.io/badge/Serverless-EC1D4F?style=flat-square&logo=Serverless&logoColor=white">
 
@@ -34,6 +33,7 @@
 <img src="https://img.shields.io/badge/Docker-2182E8?style=flat-square&logo=Docker&logoColor=white">
 
 #### 👉 ETC
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 
