@@ -20,6 +20,7 @@
 
 #### 👉 Framework
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=#E0234E">
+<img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=TypeORM&logoColor=white">
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white">
 <img src="https://img.shields.io/badge/Serverless-EC1D4F?style=flat-square&logo=Serverless&logoColor=white">
 
