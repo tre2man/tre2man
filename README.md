@@ -38,9 +38,6 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimtree97)](https://solved.ac/kimtree97)
-
-
 &emsp;
 ### 📊 Github Status
 [![tre2man's GitHub stats](https://github-readme-stats.vercel.app/api?username=tre2man)](https://github.com/tre2man/github-readme-stats)
@@ -60,6 +57,9 @@ https://tre2man.tistory.com/
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_brown.svg" />
 </a>
 
+### ETC
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimtree97)](https://solved.ac/kimtree97)
 
 
 
